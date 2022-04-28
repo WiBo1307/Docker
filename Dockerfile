@@ -2,7 +2,7 @@ FROM ubuntu:16.04
 
 # Attached information
 LABEL author.name="nvanthang" \
-    author.email="hoanki2212@gmail.com"
+    author.email="nvanthang@cmc.com.vn"
 
 # Configure the main working directory. This is the base
 # directory used in any further RUN, COPY, and ENTRYPOINT
